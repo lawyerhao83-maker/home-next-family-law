@@ -14,6 +14,15 @@ const steps = [
 
 const articles = [
   {
+    category: "家庭暴力保護",
+    date: "2026.07.20",
+    dateTime: "2026-07-20",
+    title: "家暴保護令怎麼申請？緊急、暫時、通常保護令差在哪",
+    summary:
+      "有立即危險時該先找誰？三種保護令的聲請人、處理方式與效力並不相同。一次整理安全處置、法院程序及證據準備。",
+    href: "/articles/domestic-violence-protection-order-types",
+  },
+  {
     category: "繼承與繼親家庭",
     date: "2026.07.15",
     dateTime: "2026-07-15",
