@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { sitePath } from "../../site-path";
 
 export const metadata: Metadata = {
   title: "家暴保護令怎麼申請？緊急、暫時、通常保護令差在哪｜家的下一站｜家事法律",
@@ -31,8 +32,8 @@ export default function DomesticViolenceProtectionOrderTypesArticle() {
   return (
     <main className="article-page">
       <nav className="article-nav">
-        <a className="brand" href="/">家的下一站<i>｜</i>家事法律</a>
-        <a className="text-link" href="/">回到首頁 <span aria-hidden="true">→</span></a>
+        <a className="brand" href={sitePath("/")}>家的下一站<i>｜</i>家事法律</a>
+        <a className="text-link" href={sitePath("/")}>回到首頁 <span aria-hidden="true">→</span></a>
       </nav>
 
       <article className="article-body">
@@ -114,7 +115,7 @@ export default function DomesticViolenceProtectionOrderTypesArticle() {
             保護令是以安全與保護需要為核心，不代表離婚、親權、扶養費、長期會面交往或刑事責任都會在同一程序中一次解決。若案件同時涉及這些問題，仍可能需要分別評估後續家事或刑事程序。
           </p>
           <p>
-            如果想進一步了解保護令如何處理未成年子女，可以接著閱讀<a className="inline-link" href="/articles/protection-order-children">〈保護令可以同時處理孩子嗎？〉</a>。
+            如果想進一步了解保護令如何處理未成年子女，可以接著閱讀<a className="inline-link" href={sitePath("/articles/protection-order-children/")}>〈保護令可以同時處理孩子嗎？〉</a>。
           </p>
         </section>
 

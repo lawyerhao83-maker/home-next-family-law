@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { sitePath } from "../../site-path";
 
 export const metadata: Metadata = {
   title: "對方不讓我見小孩怎麼辦？會面交往、暫時處分、交付子女怎麼分清楚｜家的下一站｜家事法律",
@@ -10,8 +11,8 @@ export default function ChildContactVisitationOrdersArticle() {
   return (
     <main className="article-page">
       <nav className="article-nav">
-        <a className="brand" href="/">家的下一站<i>｜</i>家事法律</a>
-        <a className="text-link" href="/">回到首頁 <span aria-hidden="true">→</span></a>
+        <a className="brand" href={sitePath("/")}>家的下一站<i>｜</i>家事法律</a>
+        <a className="text-link" href={sitePath("/")}>回到首頁 <span aria-hidden="true">→</span></a>
       </nav>
 
       <article className="article-body">

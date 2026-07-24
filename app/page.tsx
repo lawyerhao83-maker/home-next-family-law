@@ -20,7 +20,7 @@ const articles = [
     title: "對方不讓我見小孩怎麼辦？",
     summary:
       "會面交往、酌定或改定、交付子女與暫時處分的目的不同。先確認現有法律關係，再依孩子現況選擇適合的程序。",
-    href: "/articles/child-contact-visitation-orders",
+    href: sitePath("/articles/child-contact-visitation-orders/"),
   },
   {
     category: "家庭暴力保護",
@@ -29,7 +29,7 @@ const articles = [
     title: "家暴保護令怎麼申請？緊急、暫時、通常保護令差在哪",
     summary:
       "有立即危險時該先找誰？三種保護令的聲請人、處理方式與效力並不相同。一次整理安全處置、法院程序及證據準備。",
-    href: "/articles/domestic-violence-protection-order-types",
+    href: sitePath("/articles/domestic-violence-protection-order-types/"),
   },
   {
     category: "繼承與繼親家庭",
