@@ -14,6 +14,15 @@ const steps = [
 
 const articles = [
   {
+    category: "繼承與遺囑",
+    date: "2026.07.28",
+    dateTime: "2026-07-28",
+    title: "兄弟姊妹特留分刪除三讀通過：真正影響是什麼？",
+    summary:
+      "刪除兄弟姊妹特留分，不等於手足失去法定繼承權。一次看懂有無遺囑的差別、新法施行時間與遺產規劃重點。",
+    href: sitePath("/articles/sibling-reserved-portion-repeal-2026/"),
+  },
+  {
     category: "離婚與扶養",
     date: "2026.07.27",
     dateTime: "2026-07-27",
