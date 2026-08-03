@@ -15,6 +15,15 @@ const steps = [
 const articles = [
   {
     category: "繼承與遺囑",
+    date: "2026.07.31",
+    dateTime: "2026-07-31",
+    title: "兄弟姊妹特留分刪除後，遺產就一定不會分給手足嗎？",
+    summary:
+      "兄弟姊妹特留分刪除，不等於手足完全失去繼承權。整理修法進度、法定繼承與有效遺囑安排的差異。",
+    href: sitePath("/articles/sibling-reserved-portion-after-repeal-2026/"),
+  },
+  {
+    category: "繼承與遺囑",
     date: "2026.07.28",
     dateTime: "2026-07-28",
     title: "兄弟姊妹特留分刪除三讀通過：真正影響是什麼？",
