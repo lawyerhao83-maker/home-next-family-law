@@ -15,6 +15,15 @@ const steps = [
 const articles = [
   {
     category: "繼承與遺囑",
+    date: "2026.08.07",
+    dateTime: "2026-08-07",
+    title: "預立遺囑怎麼做才有效？",
+    summary:
+      "遺囑不是寫下來就一定有效。一次整理自書、代筆、見證人資格、特留分與遺囑執行人的重要規定。",
+    href: sitePath("/articles/valid-will-self-written-dictated-reserved-portion/"),
+  },
+  {
+    category: "繼承與遺囑",
     date: "2026.07.31",
     dateTime: "2026-07-31",
     title: "兄弟姊妹特留分刪除後，遺產就一定不會分給手足嗎？",
