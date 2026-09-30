@@ -14,6 +14,15 @@ const steps = [
 
 const articles = [
   {
+    category: "離婚與財產",
+    date: "2026.09.30",
+    dateTime: "2026-09-30",
+    title: "離婚時怎麼算夫妻剩餘財產？先備齊這6類資料",
+    summary:
+      "離婚財產不是把所有財產直接各分一半。先整理婚姻日期、房產、存款、債務、財產來源及家庭分工，才能正確評估。",
+    href: sitePath("/articles/divorce-marital-property-documents/"),
+  },
+  {
     category: "離婚與扶養",
     date: "2026.09.07",
     dateTime: "2026-09-07",
