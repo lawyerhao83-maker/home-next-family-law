@@ -84,10 +84,10 @@ export default function DivorceCondonationArticle() {
         <section>
           <h2>原諒配偶，還能向第三人求償嗎？</h2>
           <p>
-            <strong>宥恕與放棄損害賠償，需要分別判斷。</strong> 臺南地方法院112年度訴字第882號判決區分「宥恕」與「債務免除」，認為侵權行為的賠償債務，不會僅因被害人宥恕就消滅。<a href="https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TNDV%2c112%2c%e8%a8%b4%2c882%2c20241122%2c2&ot=in" target="_blank" rel="noreferrer">臺南地院判決</a>
+            <strong>宥恕與放棄損害賠償，需要分別判斷。</strong> 臺南地方法院112年度訴字第882號判決區分「宥恕」與「債務免除」，認為侵權行為的賠償債務，不會僅因被害人宥恕就消滅。
           </p>
           <p>
-            不過，臺灣高等法院111年度上易字第1186號判決，曾在個案中將宥恕等因素納入判斷，減少第三人應付的賠償。前述臺南地院判決明確未採取相同見解，因此不能宣稱法院已有一致答案。<a href="https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPHV%2c111%2c%e4%b8%8a%e6%98%93%2c1186%2c20230411%2c1&ot=in" target="_blank" rel="noreferrer">臺灣高院判決</a>
+            不過，臺灣高等法院111年度上易字第1186號判決，曾在個案中將宥恕等因素納入判斷，減少第三人應付的賠償。前述臺南地院判決明確未採取相同見解，因此不能宣稱法院已有一致答案。
           </p>
           <p>
             求償仍須符合侵權行為及配偶身分法益受侵害、情節重大等要件；若另有和解書或免除賠償的約定，也須核對其內容與效力。<a href="https://mojlaw.moj.gov.tw/LawContentExtent.aspx?LSID=FL001351&LawNo=184" target="_blank" rel="noreferrer">民法第184條</a>、<a href="https://mojlaw.moj.gov.tw/LawContentExtent.aspx?LSID=FL001351&LawNo=195" target="_blank" rel="noreferrer">第195條</a>、<a href="https://mojlaw.moj.gov.tw/LawContentExtent.aspx?LSID=FL001351&LawNo=343" target="_blank" rel="noreferrer">第343條</a>
