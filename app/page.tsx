@@ -14,6 +14,15 @@ const steps = [
 
 const articles = [
   {
+    category: "離婚與外遇",
+    date: "2026.10.01",
+    dateTime: "2026-10-01",
+    title: "原諒外遇後還能離婚嗎？宥恕的認定與求償影響",
+    summary:
+      "原諒外遇、繼續同住或再給一次機會，是否構成宥恕？說明法院認定標準，以及離婚與向第三人求償的差異。",
+    href: sitePath("/articles/divorce-condonation/"),
+  },
+  {
     category: "離婚與財產",
     date: "2026.09.30",
     dateTime: "2026-09-30",
