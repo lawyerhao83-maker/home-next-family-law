@@ -10,6 +10,8 @@
 
 # testing and builds
 /coverage
+/output/playwright/
+/.playwright-cli/
 /.next/
 /out/
 /dist/

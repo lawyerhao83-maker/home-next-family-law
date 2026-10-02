@@ -11,7 +11,7 @@ export default function ProtectionOrderChildrenArticle() {
     <main className="article-page">
       <nav className="article-nav">
         <a className="brand" href={sitePath("/")}>家的下一站<i>｜</i>家事法律</a>
-        <a className="text-link" href={sitePath("/")}>回到首頁 <span aria-hidden="true">→</span></a>
+        <a className="text-link" href={sitePath("/articles/")}>文章總覽 <span aria-hidden="true">→</span></a>
       </nav>
       <article className="article-body">
         <header>
