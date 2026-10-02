@@ -14,6 +14,15 @@ const steps = [
 
 const articles = [
   {
+    category: "離婚與婚姻破綻",
+    date: "2026.10.02",
+    dateTime: "2026-10-02",
+    title: "感情破裂就能判離婚嗎？民法第1052條第2項的婚姻破綻與蒐證重點",
+    summary:
+      "吵架、冷戰或分居，要到什麼程度才能判離婚？以表格整理法院判斷重點與證據準備，說明雙方有責及唯一有責配偶的差異。",
+    href: sitePath("/articles/divorce-breakdown-evidence-1052/"),
+  },
+  {
     category: "離婚與外遇",
     date: "2026.10.01",
     dateTime: "2026-10-01",
