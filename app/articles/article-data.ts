@@ -23,6 +23,16 @@ export const articles: FamilyArticle[] = [
   {
     category: "離婚與婚姻破綻",
     topic: "marriage",
+    date: "2026.10.16",
+    dateTime: "2026-10-16",
+    title: "配偶離家失聯，可以直接離婚嗎？先分清惡意遺棄、婚姻破綻與子女安排",
+    summary:
+      "離家失聯不會讓婚姻自動結束。一次分清惡意遺棄、重大婚姻破綻、生死不明，以及親權、扶養費與會面交往安排。",
+    href: "/articles/spouse-left-no-contact-divorce/",
+  },
+  {
+    category: "離婚與婚姻破綻",
+    topic: "marriage",
     date: "2026.10.02",
     dateTime: "2026-10-02",
     title: "感情破裂就能判離婚嗎？民法第1052條第2項的婚姻破綻與蒐證重點",
