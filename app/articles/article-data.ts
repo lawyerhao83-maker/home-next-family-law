@@ -21,6 +21,16 @@ export type FamilyArticle = {
 // Add each article here once; the homepage and directory share this list.
 export const articles: FamilyArticle[] = [
   {
+    category: "離婚與親權",
+    topic: "children",
+    date: "2026.10.29",
+    dateTime: "2026-10-29",
+    title: "孩子說不想見另一方，探視可以直接取消嗎？會面交往的法律重點",
+    summary:
+      "孩子表達不想見另一方時，不能直接當成最終決定。應回到原因、安全風險與未成年子女最佳利益，評估適合的會面安排。",
+    href: "/articles/child-refuses-visitation/",
+  },
+  {
     category: "離婚與婚姻破綻",
     topic: "marriage",
     date: "2026.10.16",
